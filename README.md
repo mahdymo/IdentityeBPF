@@ -25,7 +25,7 @@ To run the eBPF code examples in this repository, follow these steps:
 2. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/identityeBPF.git
+   git clone https://github.com/yourusername/IdentityeBPF.git
    ```
 
 3. Navigate to the directory containing the desired example code.
