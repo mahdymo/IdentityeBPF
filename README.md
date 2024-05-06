@@ -2,6 +2,8 @@
 
 Welcome to the Identity eBPF repository! This repository contains example code demonstrating the power and versatility of eBPF (extended Berkeley Packet Filter) in enhancing security and identity enforcement in IoT and distributed systems.
 
+Note: This is still work in progress via pseudo codes and with some help from GPT friend, so contributions are always welcome. more screenshots will be added with the testing results.
+
 ## Overview
 
 While many of the explored eBPF use cases focus on filtering and application security, this repository highlights the potential of eBPF in the Identity space. By seamlessly processing traffic, capturing authentication requests, and enhancing identity enforcement, eBPF opens new possibilities for securing IoT and distributed systems.
